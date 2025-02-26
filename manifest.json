@@ -1,0 +1,10 @@
+{
+    "name": "DVD Extension",
+    "description": "Watch a DVD bounce when youre bored!",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "assets/dvd-page.png"
+    }
+  }

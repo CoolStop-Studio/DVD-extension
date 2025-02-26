@@ -1,2 +1,2 @@
 # DVD-extension
-Funny extension for chrome
+Watch a DVD bounce when youre bored!
