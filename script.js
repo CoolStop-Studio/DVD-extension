@@ -2,6 +2,7 @@ const imgWidth = 50;
 const imgHeight = 50;
 
 function newDVD() {
+    
     try {
 
     const newDVD = document.createElement("img")
